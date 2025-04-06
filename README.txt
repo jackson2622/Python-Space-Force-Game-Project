@@ -28,6 +28,7 @@ Ensure you have the following installed before running the game:
 
 Install `pygame` using the following command:
 
+pip install pygame
 
 ---
 
